@@ -62,7 +62,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
 <community@zenprivacy.net>.
 
-Reports sent to this address will be reviewed by the following individuals
+Reports sent to this address will be reviewed by the following individuals:
 
 * Ansar Smagulov (<anfragment@zenprivacy.net>)
 * Sultan Momynov (<sultan@zenprivacy.net>)
